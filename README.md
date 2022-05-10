@@ -6,12 +6,14 @@ Allow the tec1 using MINT and/or ASM code to access and use an old 5.1/4 inch fl
 I like the RC2014 floppy controller so will adapt this.
 
 ### Hardware
-Use https://www.smbaker.com/z80-retrocomputing-part-14-rc2014-floppy-controller-boards to make our project. "The reduced complexity of the WD37C65 circuit is evident from the lower chip count. It’s not earth shattering, but any simplification is a benefit. In addition, having the DOR register built into the chip seems to make the programming easier."
+model h/w and give credit to https://www.smbaker.com/z80-retrocomputing-part-14-rc2014-floppy-controller-boards to make our project. "The reduced complexity of the WD37C65 circuit is evident from the lower chip count. It’s not earth shattering, but any simplification is a benefit. In addition, having the DOR register built into the chip seems to make the programming easier."
 
 ![](https://github.com/SteveJustin1963/tec-Floppy/blob/main/docs/New%20folder/rc2014-floppy-wd-sch.png)
 
 ### Software
-model code after "floppy driver from RomWBW" (https://github.com/wwarthen/RomWBW) and or the "Grant Searle CP/M monitor, BIOS and tools...has closer compatibility to RC2014". 
+model s/w and give credit to "floppy driver from RomWBW" (https://github.com/wwarthen/RomWBW) and or the "Grant Searle CP/M monitor, BIOS and tools...has closer compatibility to RC2014". see https://github.com/wwarthen/RomWBW/blob/master/Source/HBIOS/fd.asm
+
+
 
 
 
