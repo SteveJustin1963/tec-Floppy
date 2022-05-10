@@ -13,7 +13,8 @@ model h/w and give credit to https://www.smbaker.com/z80-retrocomputing-part-14-
 ### Software
 model s/w and give credit to "floppy driver from RomWBW" (https://github.com/wwarthen/RomWBW) and or the "Grant Searle CP/M monitor, BIOS and tools...has closer compatibility to RC2014". see https://github.com/wwarthen/RomWBW/blob/master/Source/HBIOS/fd.asm
 
-
+### Iterate
+- is it possible to eliminate the WD37C65 hw controller cct and just control the FDD directly ? code in MINT
 
 
 
